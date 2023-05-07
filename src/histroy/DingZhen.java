@@ -13,7 +13,7 @@ public class DingZhen {
             name  = mypwd.next();
             System.out.println("请输入密码");
             passwd = mypwd.next();
-            if(name.equals("丁真珍珠") && passwd.equals("666")){
+            if(name.equals("丁真珍珠小马") && passwd.equals("666")){
                 System.out.println("登陆成功");
                 break;
             }else{
